@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Developer of Kitsune Lab</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sples1&theme=midnight-purple" alt="sples1" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=sples1&theme=midnight-purple" alt="sples1" /></a> </p>
 
 <a><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sples1&show_icons=true&locale=en&theme=midnight-purple" alt="sples1" />
 
