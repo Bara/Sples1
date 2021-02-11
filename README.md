@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Entity</h1>
-<h3 align="center">I'm a Developer of Kitsune Lab</h3>
+<h3 align="center">I'm a Lead-Developer of Kitsune Lab</h3>
 
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=sples1&theme=midnight-purple" alt="sples1" /></a> </p>
